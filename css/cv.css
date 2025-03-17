@@ -306,3 +306,7 @@ table td {
 .le {
     color: var(--sec-color);
 }
+a{
+    color: var(--main-color);
+    
+}
