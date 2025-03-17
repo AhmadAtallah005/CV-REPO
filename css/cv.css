@@ -95,6 +95,10 @@ body {
     font-weight: 900;
 
 }
+.left .contact-info p a {
+    color: white;
+    text-decoration: none;
+}
 .edu {
     margin-top: var(--main-margin) ;
     margin-bottom: var(--main-margin);
